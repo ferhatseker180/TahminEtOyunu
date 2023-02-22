@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tahminEt</string>
+    <string name="textViewGiris">SAYI TAHMİN ET</string>
+    <string name="buttonOyunaBasla">OYUNA BAŞLA</string>
+    <string name="textViewKalanHak">KALAN HAK : 5</string>
+    <string name="textViewOneri"></string>
+    <string name="editTextKullaniciGirdi"></string>
+    <string name="buttonTahminEt">TAHMİN ET</string>
+    <string name="textViewSonuc">KAZANDINIZ</string>
+    <string name="buttonSonuc">TEKRAR OYNA</string>
+    <string name="buttonBaslat">BAŞLAT</string>
+    <string name="buttonDurdur">DURDUR</string>
+    <string name="textViewAlternative">Tebrikler Tek Seferde Bilmeyi Başardın!</string>
+    <string name="buttonSonuc2">TEKRAR OYNA</string>
+</resources>

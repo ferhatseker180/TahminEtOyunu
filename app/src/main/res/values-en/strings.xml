@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tahminEt</string>
+    <string name="textViewGiris">GUESS TO NUMBER</string>
+    <string name="buttonOyunaBasla">START GAME</string>
+    <string name="textViewKalanHak">REMAINING RIGHTS : 5</string>
+    <string name="textViewOneri"></string>
+    <string name="editTextKullaniciGirdi"></string>
+    <string name="buttonTahminEt">GUESS</string>
+    <string name="textViewSonuc">YOU WIN</string>
+    <string name="buttonSonuc">PLAY AGAIN</string>
+    <string name="buttonBaslat">START</string>
+    <string name="buttonDurdur">STOP</string>
+    <string name="textViewAlternative">Congratulations,you knew it once!</string>
+    <string name="buttonSonuc2">PLAY AGAIN</string>
+</resources>
