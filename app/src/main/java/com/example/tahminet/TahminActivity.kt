@@ -21,16 +21,6 @@ class TahminActivity : AppCompatActivity() {
         rastgeleSayi = Random.nextInt(21)
         Log.e("Rastgele Sayı", rastgeleSayi.toString())
 
-        //  buttonTahminEt.setOnClickListener {
-        //    val intent = Intent(this@TahminActivity,SonucAktivity::class.java)
-
-        //    finish()
-        //    startActivity(intent)
-        //  }
-
-
-
-
 
         buttonTahminEt.setOnClickListener {
 
